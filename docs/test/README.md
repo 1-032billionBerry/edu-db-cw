@@ -6,30 +6,36 @@
 
 ## GET
 
+### Отримати всі дані - Гість
+
+![](./images/GET_allData.png)
+
 ### Отримати всі запити (виводяться запити користувача) - Користувач
 
-![](./images/get_all_data.png)
+![](./images/GET_allRequests.png)
 
-### Отримати дані користувача - Користувач
+### Отримати всі запити (виводяться запити всіх користувачів) - Адміністратор
 
-![](./images/get_user.png)
+![](./images/GET_allRequests_admin.png)
+
 
 ## POST
 
-### Зареєстуватись - Гість
+### Схвалити запит - Адміністратор
 
-![](./images/register_user.png)
+![](./images/POST_approveRequest_admin.png)
 
-### Авторизуватись - Гість
+### Відхилити запит - Адміністратор
 
-![](./images/auth_user.png)
+![](./images/POST_denyRequest_admin.png)
 
 ### Відправити запит - Користувач
 
-![](./images/send_request.png)
+![](./images/POST_uploadRequest.png)
 
 ## PATCH
 
-### Оновити профіль користувача - Користувач
+### Добавити дозволи користувачу - Адміністратор
 
-![](./images/patch_user.png)
+![](./images/PATCH_addPermissions_admin_1.png)
+![](./images/PATCH_addPermissions_admin_2.png)

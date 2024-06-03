@@ -3,20 +3,19 @@ home: true
 actionText: Розпочати →
 actionLink: /intro/
 
-footer: "ECL 2.0 Licensed | Copyright © [2024] [Skorobohatov Ihor]"
+footer: "ECL 2.0 Licensed | Copyright © [2024] [Kyrykovych Vitalii]"
 ---
 
 
-**Виконав:**
+**Виконав:** 
 
-*студент 2-го курсу, групи IO-25*
+*студент 2-го курсу, групи IO-25* 
 
-**Скоробогатов Ігор [igorskor0912@gmail.com, <a href="https://t.me/thundergodswrath" target="_blank">@thundergodswrath</a>]**
-
+**Кирикович Віталій [kyrykovych.vitalii@lll.kpi.ua, <a href="https://t.me/I_032billionBerry" target='_blank'>@I_032billionBerry</a>]**
 
 **Керівник**
 
-*доцент кафедри ОТ ФІОТ, к.т.н., доцент*<span padding-right:5em></span> **Андрій БОЛДАК**
+*доцент кафедри ОТ ФІОТ, к.т.н., доцент*<span padding-right:5em></span> **Андрій БОЛДАК** 
 
 [НТУУ "КИЇВСЬКИЙ ПОЛІТЕХНІЧНИЙ ІНСТИТУТ імені ІГОРЯ СІКОРСЬКОГО](https://kpi.ua/)
 
